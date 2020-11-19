@@ -9,6 +9,6 @@
 "about":"",
 "update":"",
 "version":2,
-"interstial":"ca-app-pub-3940256099942544/1033173712""
+"interstial":"ca-app-pub-3940256099942544/1033173712"
 
 }
