@@ -9,7 +9,7 @@
 "title":"",
 "about":"",
 "update":"",
-"version":2,
+"version":1,
 "interstial":"ca-app-pub-3940256099942544/1033173712"
 
 }
