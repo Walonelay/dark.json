@@ -10,6 +10,6 @@
 "about":"",
 "update":"",
 "version":1,
-"interstial":""
+"interstial":"ca-app-pub-4740926204152143/8369712948"
 
 }
